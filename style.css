@@ -96,6 +96,16 @@ main{
     text-align: center;
 }
 
+.descri{
+    text-align: center;
+    font-family: fantasy;
+    font-style: oblique;
+    font-size: 20px;
+    text-shadow: 3px 2px 1px #fcdc0c;
+    
+
+}
+
 nav{
   float: right;
    
@@ -171,15 +181,21 @@ p{
  }
 
 footer {
-    
+     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px;
+    border-radius: 3px;
+    background-color: #f9f9f9;
+    margin: 0.1px;
     font-size: 15px;
    
  }
 
  .titulo{
-    
+    margin-top: 3px;
+    margin-bottom: 2px;
     font-size: 30px;
-    font-family:fantasy;
+    font-family: fantasy;
     color: #050505fa;
     text-shadow: 3px 2px 1px #fcdc0c;
     
